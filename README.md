@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @spielmeisterg
+- 👀 I’m interested in a remote programming job to eventually be a full stack web developer
+- 🌱 I’m currently learning frontend web development
