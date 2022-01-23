@@ -1,3 +1,2 @@
-- 👋 Hi, I’m @spielmeisterg
-- 👀 I’m interested in a remote programming job to eventually be a full stack web developer
-- 🌱 I’m currently learning frontend web development
+Hi, I’m Ian Speelman
+I'm learning frontend development with the goal of becoming a fullstack freelance web developer,
