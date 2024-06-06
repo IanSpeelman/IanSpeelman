@@ -1,4 +1,4 @@
-# Hi, I'm is Ian Speelman 👋
+# Hi, I'm Ian Speelman 👋
 
 [![GitHub followers](https://img.shields.io/github/followers/ianspeelman?label=Follow&style=social)](https://github.com/ianspeelman)
 
