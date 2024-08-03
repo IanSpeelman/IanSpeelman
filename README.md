@@ -1,19 +1,8 @@
-# Hi, I'm Ian Speelman 👋
+# 👋 Hi, I'm Ian Speelman
 
-[![GitHub followers](https://img.shields.io/github/followers/ianspeelman?label=Follow&style=social)](https://github.com/ianspeelman)
+I'm a self-learning web developer based in Tranås, Jönköping, Sweden. My passion for programming began years ago, and while I started studying it in school, I unfortunately didn't complete my education—a decision I've long regretted. Recently, after becoming jobless, I seized the opportunity to dive back into studying and refine my skills, particularly in web development.
 
-Welcome to my GitHub profile! I'm a passionate self-learner currently diving deep into web development using the MERN stack. Here's a little more about me:
-
-## 🚀 About Me
-
-- 🔭 I’m currently working on self-learning web development using MongoDB, Express, React, and Node.js.
-- 👯 I’m looking to collaborate on open-source projects, especially those focused on web development.
-- 💬 Ask me about JavaScript, React, Node.js, and anything related to the MERN stack.
-- 📫 How to reach me: ianspeelman@gmail.com
-
-## 🛠️ Technologies & Tools
-
-
+## 🚀 Skills and Technologies
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -31,13 +20,27 @@ Welcome to my GitHub profile! I'm a passionate self-learner currently diving dee
 ![CS50x](https://img.shields.io/badge/CS50x-Completed-blue?style=flat)
 ![CS50 Web](https://img.shields.io/badge/CS50%20Web-Enrolled-50b69f?style=flat)
 
+I'm currently focused on learning and working with various web development technologies, including:
 
-## 📈 GitHub Stats
+- **Languages:** HTML, CSS, JavaScript, Python, C
+- **Frameworks & Libraries:** Django, Flask, Node.js (Express.js), Bulma, Bootstrap
+- **Databases:** MongoDB, SQLite3
+- **Tools:** Visual Studio Code (VSCode), Git
 
-![Ian's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ianspeelman&show_icons=true&hide_border=true&count_private=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ianspeelman&layout=compact&theme=radical)
+## 🎓 Courses
 
-## 🤝 Connect with Me
+- **[[Completed]](https://certificates.cs50.io/866fd501-3ec5-4b94-a1a7-713c79214263.pdf?size=letter)CS50x:** An introduction to the intellectual enterprises of computer science and the art of programming.
+- **[In progress]CS50Web:** A comprehensive course on web programming with Python and JavaScript.
 
-[![GitHub followers](https://img.shields.io/github/followers/ianspeelman?label=Follow&style=social)](https://github.com/ianspeelman)
-[![Email](https://img.shields.io/badge/Email-ianspeelman@gmail.com-red)](mailto:ianspeelman@gmail.com)
+## 💼 Professional Experience
+
+While I don't have formal professional experience, I am dedicated to building a solid foundation through self-study and practical projects. My learning journey has included working on projects with Django, Flask, and Node.js, where I've developed a deeper understanding of web frameworks and full-stack development.
+
+## 📫 Contact Me
+
+- **Email:** [ianspeelman@gmail.com](mailto:ianspeelman@gmail.com)
+- **LinkedIn:** [Ian Speelman](https://www.linkedin.com/in/ian-speelman-6200aa132/)
+
+## 🔍 Availability
+
+I am currently available and open to job opportunities, collaborations, and new projects. If you're looking for a passionate and dedicated web developer, please don't hesitate to reach out!
