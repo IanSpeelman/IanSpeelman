@@ -18,7 +18,7 @@ I'm a self-learning web developer based in Tranås, Jönköping, Sweden. My pass
 ![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![CS50x](https://img.shields.io/badge/CS50x-Completed-blue?style=flat)
-![CS50 Web](https://img.shields.io/badge/CS50%20Web-Enrolled-50b69f?style=flat)
+![CS50 Web](https://img.shields.io/badge/CS50%20Web-Completed-blue?style=flat)
 
 I'm currently focused on learning and working with various web development technologies, including:
 
