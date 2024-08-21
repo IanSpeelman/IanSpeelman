@@ -28,8 +28,9 @@ I'm currently focused on learning and working with various web development techn
 
 ## 🎓 Courses
 
-- **[[Completed]](https://certificates.cs50.io/866fd501-3ec5-4b94-a1a7-713c79214263.pdf?size=letter)CS50x:** An introduction to the intellectual enterprises of computer science and the art of programming.
-- **[In progress]CS50Web:** A comprehensive course on web programming with Python and JavaScript.
+**[[Completed]](https://certificates.cs50.io/866fd501-3ec5-4b94-a1a7-713c79214263.pdf?size=letter) - CS50x:** An introduction to the intellectual enterprises of computer science and the art of programming.
+
+**[[Completed]](https://certificates.cs50.io/aa5307b0-6fc2-41d4-b453-e32d4110d898.pdf?size=letter) - CS50Web:** A comprehensive course on web programming with Python and JavaScript.
 
 ## 💼 Professional Experience
 
@@ -39,6 +40,7 @@ While I don't have formal professional experience, I am dedicated to building a 
 
 - **Email:** [ianspeelman@gmail.com](mailto:ianspeelman@gmail.com)
 - **LinkedIn:** [Ian Speelman](https://www.linkedin.com/in/ian-speelman-6200aa132/)
+- **Website:** [ianspeelman.com](https://www.ianspeelman.com)
 
 ## 🔍 Availability
 
