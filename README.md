@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ian Speelman
 
-I'm a self-learning web developer based in Tranås, Jönköping, Sweden. My passion for programming began years ago, and while I started studying it in school, I unfortunately didn't complete my education—a decision I've long regretted. Recently, after becoming jobless, I seized the opportunity to dive back into studying and refine my skills, particularly in web development.
+a self-taught full-stack web developer with a passion for building dynamic and scalable web applications. I specialize in React, TypeScript, .NET, and C#, focusing on delivering clean, efficient, and user-friendly solutions. I'm always exploring new technologies and refining my skills to stay at the forefront of web development. For a closer look at my work, feel free to check out my projects on my [portfolio](https://www.ianspeelman.com) or of course here on GitHub.
 
 ## 🚀 Skills and Technologies
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
@@ -34,9 +34,9 @@ I'm currently focused on learning and working with various web development techn
 
 **[[Completed]](https://certificates.cs50.io/aa5307b0-6fc2-41d4-b453-e32d4110d898.pdf?size=letter) - CS50Web:** A comprehensive course on web programming with Python and JavaScript.
 
-## 💼 Professional Experience
+## 💼 Experience
 
-While I don't have formal professional experience, I am dedicated to building a solid foundation through self-study and practical projects. My learning journey has included working on projects with Django, Flask, and Node.js, where I've developed a deeper understanding of web frameworks and full-stack development.
+I am dedicated to building a strong foundation in full-stack development through self-study and hands-on projects. My learning journey has involved working with C#, .NET, React, TypeScript, and Node.js, allowing me to develop a solid understanding of both front-end and back-end technologies. These projects have sharpened my skills and fueled my passion for creating dynamic, efficient web applications.
 
 ## 📫 Contact Me
 
@@ -44,6 +44,5 @@ While I don't have formal professional experience, I am dedicated to building a 
 - **LinkedIn:** [Ian Speelman](https://www.linkedin.com/in/ian-speelman-6200aa132/)
 - **Website:** [ianspeelman.com](https://www.ianspeelman.com)
 
-## 🔍 Availability
 
 I am currently available and open to job opportunities, collaborations, and new projects. If you're looking for a passionate and dedicated web developer, please don't hesitate to reach out!
