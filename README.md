@@ -23,10 +23,10 @@ a self-taught full-stack web developer with a passion for building dynamic and s
 
 I'm currently focused on learning and working with various web development technologies, including:
 
-- **Languages:** HTML, CSS, JavaScript, Python, C
-- **Frameworks & Libraries:** Django, Flask, Node.js (Express.js), Bulma, Bootstrap
-- **Databases:** MongoDB, SQLite3
-- **Tools:** Visual Studio Code (VSCode), Git
+- **Languages:** HTML, CSS, JavaScript, Python, C, C#
+- **Frameworks & Libraries:** Django, Flask, Node.js (Express.js), Bulma, Bootstrap, .NET, Entity Framework, React
+- **Databases:** MongoDB, SQLite3, Postgresql
+- **Tools:** Visual Studio Code (VSCode), Git, Docker, Postman
 
 ## 🎓 Courses
 
