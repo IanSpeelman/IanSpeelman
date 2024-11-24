@@ -1,5 +1,4 @@
-# 👋 Hi, I'm Ian Speelman
-
+👋 Hi, I'm Ian Speelman, 
 a self-taught full-stack web developer with a passion for building dynamic and scalable web applications. I specialize in React, TypeScript, .NET, and C#, focusing on delivering clean, efficient, and user-friendly solutions. I'm always exploring new technologies and refining my skills to stay at the forefront of web development. For a closer look at my work, feel free to check out my projects on my [portfolio](https://www.ianspeelman.com) or of course here on GitHub.
 
 ## 🚀 Skills and Technologies
@@ -30,9 +29,9 @@ I'm currently focused on learning and working with various web development techn
 
 ## 🎓 Courses
 
-**[[Completed]](https://certificates.cs50.io/866fd501-3ec5-4b94-a1a7-713c79214263.pdf?size=letter) - CS50x:** An introduction to the intellectual enterprises of computer science and the art of programming.
+**[Completed](https://certificates.cs50.io/866fd501-3ec5-4b94-a1a7-713c79214263.pdf?size=letter) - CS50x:** An introduction to the intellectual enterprises of computer science and the art of programming.
 
-**[[Completed]](https://certificates.cs50.io/aa5307b0-6fc2-41d4-b453-e32d4110d898.pdf?size=letter) - CS50Web:** A comprehensive course on web programming with Python and JavaScript.
+**[Completed](https://certificates.cs50.io/aa5307b0-6fc2-41d4-b453-e32d4110d898.pdf?size=letter) - CS50Web:** A comprehensive course on web programming with Python and JavaScript.
 
 ## 💼 Experience
 
