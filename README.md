@@ -42,6 +42,7 @@ I am dedicated to building a strong foundation in full-stack development through
 - **Email:** [ianspeelman@gmail.com](mailto:ianspeelman@gmail.com)
 - **LinkedIn:** [Ian Speelman](https://www.linkedin.com/in/ian-speelman-6200aa132/)
 - **Website:** [ianspeelman.com](https://www.ianspeelman.com)
+- **Upwork:** [Ian Speelman](https://www.upwork.com/freelancers/~01d6ab3c4a5f172e26)
 
 
 I am currently available and open to job opportunities, collaborations, and new projects. If you're looking for a passionate and dedicated web developer, please don't hesitate to reach out!
